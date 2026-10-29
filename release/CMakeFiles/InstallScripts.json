@@ -1,0 +1,15 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/Users/Andrew/dev/baddoom/release/cmake_install.cmake",
+		"C:/Users/Andrew/dev/baddoom/release/lib/glfw-3.4/cmake_install.cmake",
+		"C:/Users/Andrew/dev/baddoom/release/lib/glfw-3.4/src/cmake_install.cmake",
+		"C:/Users/Andrew/dev/baddoom/release/lib/glad/cmake_install.cmake",
+		"C:/Users/Andrew/dev/baddoom/release/lib/assimp/cmake_install.cmake",
+		"C:/Users/Andrew/dev/baddoom/release/lib/assimp/contrib/zlib/cmake_install.cmake",
+		"C:/Users/Andrew/dev/baddoom/release/lib/assimp/code/cmake_install.cmake",
+		"C:/Users/Andrew/dev/baddoom/release/lib/assimp/test/cmake_install.cmake",
+		"C:/Users/Andrew/dev/baddoom/release/lib/assimp/test/headercheck/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

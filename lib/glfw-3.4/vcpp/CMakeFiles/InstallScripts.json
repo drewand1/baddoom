@@ -1,0 +1,11 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/Users/Andrew/lib/glfw-3.4/vcpp/cmake_install.cmake",
+		"C:/Users/Andrew/lib/glfw-3.4/vcpp/src/cmake_install.cmake",
+		"C:/Users/Andrew/lib/glfw-3.4/vcpp/examples/cmake_install.cmake",
+		"C:/Users/Andrew/lib/glfw-3.4/vcpp/tests/cmake_install.cmake",
+		"C:/Users/Andrew/lib/glfw-3.4/vcpp/docs/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
